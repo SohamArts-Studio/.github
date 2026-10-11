@@ -94,7 +94,7 @@ A Windows desktop application for organizing project reports, recording daily pr
 
 <div align="center">
 
-[**VISIT WEBSITE ↗**]([https://dailyreportgen.netlify.app/](https://dailyreport-sohamarts.netlify.app/))
+[**VISIT WEBSITE ↗**](https://dailyreport-sohamarts.netlify.app/)
 
 </div>
 
@@ -121,7 +121,7 @@ A keyboard-driven Windows launcher designed to make opening applications and acc
 
 <div align="center">
 
-[**VISIT WEBSITE ↗**]([https://github.com/orgs/SohamArts-Studio/repositories](https://slauncher.netlify.app/))
+[**VISIT WEBSITE ↗**](https://slauncher.netlify.app/)
 
 </div>
 
