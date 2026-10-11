@@ -1,8 +1,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:080B16,45:17143A,100:073B4C&text=SOHAMARTS%20STUDIO&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=SOFTWARE%20%2F%20PRODUCTS%20%2F%20GAMES&descSize=16&descAlignY=62&animation=fadeIn" />
-
+<div align="center">
+  <img src="./assets/sohamarts-studio-banner.gif" width="100%" alt="SohamArts Studio">
+</div>
 <br/>
 
 # BUILDING SOFTWARE. CREATING EXPERIENCES.
