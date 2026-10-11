@@ -93,9 +93,9 @@ A Windows desktop application for organizing project reports, recording daily pr
 - Local-first data storage
 
 <div align="center">
-[![Visit Website](https://img.shields.io/badge/VISIT_WEBSITE-00E5FF?style=for-the-badge&logo=netlify&logoColor=black)(https://dailyreportgen.netlify.app/)
-
-
+<a href="(https://dailyreport-sohamarts.netlify.app/)">
+  <img src="https://img.shields.io/badge/↗_VISIT_WEBSITE-8B5CF6?style=for-the-badge&logoColor=white" alt="Visit Website" />
+</a>
 </div>
 
 </td>
@@ -121,8 +121,9 @@ A keyboard-driven Windows launcher designed to make opening applications and acc
 
 <div align="center">
 
-[**VISIT WEBSITE ↗**](https://slauncher.netlify.app/)
-
+<a href="https://slauncher.netlify.app/">
+  <img src="https://img.shields.io/badge/↗_VISIT_WEBSITE-8B5CF6?style=for-the-badge&logoColor=white" alt="Visit Website" />
+</a>
 </div>
 
 </td>
@@ -150,7 +151,9 @@ An offline-first project and task management application built around organizing
 
 <div align="center">
 
-[**MICROSOFT STORE LINK ↗**](https://apps.microsoft.com/detail/9PD5G0FR7NSN?hl=en-us&gl=IN&ocid=pdpshare)
+<a href="https://apps.microsoft.com/detail/9PD5G0FR7NSN?hl=en-us&gl=IN&ocid=pdpshare">
+  <img src="https://img.shields.io/badge/↓_VISIT_STORE-06B6D4?style=for-the-badge&logo=microsoftstore&logoColor=white" alt="Visit Store" />
+</a>
 
 </div>
 
@@ -171,7 +174,9 @@ We believe good software should be useful, approachable, and thoughtfully design
 
 <div align="center">
 
-[**DISCOVER ALL PROJECTS ↗**](https://github.com/orgs/SohamArts-Studio/repositories)
+<a href="https://github.com/orgs/SohamArts-Studio/repositories">
+  <img src="https://img.shields.io/badge/↗_DISCOVER_ALL_PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Discover All Projects" />
+</a>
 
 </div>
 
@@ -208,7 +213,9 @@ A colorful block-matching arcade game built with Flutter for Windows.
 - Next-piece preview
 - Dark, colorful interface
 
-[**VIEW THE SOURCE CODE →**](https://github.com/SohamArts-Studio/Drop-and-Match-Game)
+<a href="https://github.com/SohamArts-Studio/Drop-and-Match-Game">
+  <img src="https://img.shields.io/badge/⌘_VIEW_SOURCE_CODE-242938?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code" />
+</a>
 
 </td>
 </tr>
