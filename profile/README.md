@@ -93,8 +93,8 @@ A Windows desktop application for organizing project reports, recording daily pr
 - Local-first data storage
 
 <div align="center">
+[![Visit Website](https://img.shields.io/badge/🌐_Visit_Website-18181b?style=for-the-badge&labelColor=06b6d4&color=18181b)]([https://dailyreportgen.netlify.app/](https://dailyreport-sohamarts.netlify.app/))
 
-[**VISIT WEBSITE ↗**](https://dailyreport-sohamarts.netlify.app/)
 
 </div>
 
